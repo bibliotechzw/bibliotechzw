@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bibliotechzw
 - 👀 I’m interested in reading, learning and all things Library
-- 🌱 I’m currently learning  how to use github, mmd and video editing 
+- 🌱 I’m currently learning  how to use github for all things library and fun 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
