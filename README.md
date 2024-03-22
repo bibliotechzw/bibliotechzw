@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bibliotechzw
 - 👀 I’m interested in reading, learning and all things Library
 - 🌱 I’m currently learning  how to use github for all things library and fun 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on library app solutions
 - 📫 How to reach me ...
 
 <!---
